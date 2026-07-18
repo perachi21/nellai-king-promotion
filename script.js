@@ -1,1 +1,1 @@
-console.log('Nellai King Promotion Company');
+document.querySelectorAll('a').forEach(a=>a.style.transition='0.3s');
